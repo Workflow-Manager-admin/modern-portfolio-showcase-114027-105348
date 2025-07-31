@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/modern-portfolio-showcase-114027-105348/backend"
+}
